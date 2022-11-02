@@ -1,0 +1,14 @@
+{
+  "name": "html-css-browsersync",
+  "version": "1.0.0",
+  "description": "browsersync",
+  "main": "index.js",
+  "scripts": {
+    "dev": "browser-sync -sw"
+  },
+  "author": "ro",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.10"
+  }
+}
